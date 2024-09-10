@@ -1,0 +1,24 @@
+	Country/Province	continent	source	lat	long
+1	Uganda	Africa	web	0.313611	32.581111
+2	Madagascar	Africa	web	-18.933333	47.516667
+3	Central African Republic	Africa	web	4.373333	18.562778
+4	Ethiopia	Africa	web	9.03	38.74
+5	Singapore	Asia	web	3.147778	101.695278
+6	The Republic of the Congo	Africa	web	-4.269444	15.271111
+7	Kenya	Africa	web	-1.286389	36.817222
+8	Tanzania	Africa	web	-6.173056	35.741944
+9	Democratic Republic of the Congo	Africa	web	-4.3	15.3
+10	Cameroon	Africa	web	3.866667	11.516667
+11	Argentina	America	web	-34.603333	-58.381667
+12	Nicaragua	America	web	12.136389	-86.251389
+13	Mexico	America	web	19.433333	-99.133333
+14	Colombia	America	web	4.633333	-74.083333
+15	Ecuador	America	web	-0.1807	-78.4678
+16	Costa Rica	America	web	9.933333	-84.083333
+17	the United States	America	web	38.895117	-77.036367
+18	China	Asia	web	39.906217	116.3912757
+19	Japan	Asia	web	35.683333	139.733333
+20	Israel	Asia	web	31.778889	35.225556
+21	Hungary	Europe	web	47.4925	19.051389
+22	Italy	Europe	web	41.893333	12.482778
+23	Yunnan	Asia	Our	25.046389	102.709444

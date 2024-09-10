@@ -1,0 +1,804 @@
+	fq_name	Wild/Captive	continent	Country	Species_Name	Marker	clean_size	reads_num
+1	QueTC_2022_1-12-1	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	20.99188391	57428428
+2	QueTC_2022_1-12-2	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	20.16426879	55167828
+3	QueTC_2022_1-12-3	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	23.73313923	64891594
+4	QueTC_2022_1-12-4	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	24.09198005	65913664
+5	QueTC_2022_1-12-5	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	26.05107942	71309162
+6	QueTC_2022_1-12-6	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	25.38310364	69462516
+7	QueTC_2022_1-12-7	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	25.28961886	69243258
+8	QueTC_2022_1-12-8	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	25.89314733	70833084
+9	QueTC_2022_1-12-9	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	26.1757493	71611060
+10	QueTC_2022_1-12-10	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	25.54920703	70150624
+11	QueTC_2022_1-12-11	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	26.47693842	72514404
+12	QueTC_2022_1-12-12	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	26.36822047	72162288
+13	QueTC_2022_B0519	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	25.00705532	68382988
+14	QueTC_2022_B-G-01	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	32.28056891	88214718
+15	QueTC_2022_B-G-02	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	25.89004722	70817716
+16	QueTC_2022_B-G-03	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	11.93232728	34681982
+17	QueTC_2022_B-G-04	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	23.44924953	64142706
+18	QueTC_2022_B-G-05	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	21.24824645	58128006
+19	QueTC_2022_B-G-06	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	22.0322689	60271042
+20	QueTC_2022_B-G-07	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	23.1677199	63367280
+21	QueTC_2022_B-G-08	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	21.96407995	60073970
+22	QueTC_2022_H01	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	24.0175972	65656382
+23	QueTC_2022_H02	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	25.48548053	69621640
+24	QueTC_2022_H03	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	24.21240377	66189118
+25	QueTC_2022_H04	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	27.18370004	74313012
+26	QueTC_2022_H05	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	25.68891612	70239092
+27	QueTC_2022_H06	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	27.66362391	75584940
+28	QueTC_2022_H07	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	28.14380073	76963448
+29	QueTC_2022_H08	Wild	Asia	China	Trachypithecus leucocephalus	QueTC_2022	24.38863151	66679906
+30	HanyaG_2020_DRR198866	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	35.5483696	109547932
+31	HanyaG_2020_DRR198867	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	15.59914885	48240468
+32	HanyaG_2020_DRR198868	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	8.889180604	28666492
+33	HanyaG_2020_DRR198869	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	3.641845798	11265382
+34	HanyaG_2020_DRR198870	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	21.99427872	68663710
+35	HanyaG_2020_DRR198871	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	5.192345866	16522698
+36	HanyaG_2020_DRR198872	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	3.771093778	11821434
+37	HanyaG_2020_DRR198873	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	9.425842406	29414162
+38	HanyaG_2020_DRR198874	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	3.108807236	10169072
+39	HanyaG_2020_DRR198875	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	15.23688864	47762062
+40	HanyaG_2020_DRR198876	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	3.963902368	12344902
+41	HanyaG_2020_DRR198877	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	22.56575434	70330348
+42	HanyaG_2020_DRR198878	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	8.472265616	26246284
+43	HanyaG_2020_DRR198879	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	8.622247096	26978180
+44	HanyaG_2020_DRR198880	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	3.962749914	12654542
+45	HanyaG_2020_DRR198881	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	2.707850634	9073204
+46	HanyaG_2020_DRR198882	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	2.85530163	9531198
+47	HanyaG_2020_DRR198883	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	2.026646438	6394582
+48	HanyaG_2020_DRR198884	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	37.23472122	114552018
+49	HanyaG_2020_DRR198885	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	5.180667958	16132512
+50	HanyaG_2020_DRR198886	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	6.261872416	19538638
+51	HanyaG_2020_DRR198887	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	5.972655682	18697950
+52	HanyaG_2020_DRR198888	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	2.515836294	7880178
+53	HanyaG_2020_DRR198889	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	3.067271324	9714288
+54	HanyaG_2020_DRR198890	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	28.93957471	89565832
+55	HanyaG_2020_DRR198891	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	5.788017956	18002884
+56	HanyaG_2020_DRR198892	Wild	Asia	Japan	Macaca fuscata	HanyaG_2020	16.56148454	51440524
+57	AmatoKR_2018_APAL37	Wild	America	Nicaragua	Alouatta palliata	AmatoKR_2018	5.031152701	13551482
+58	AmatoKR_2018_APF105	Wild	America	Mexico	Alouatta pigra	AmatoKR_2018	4.829096561	13011730
+59	AmatoKR_2018_APF36	Wild	America	Mexico	Alouatta pigra	AmatoKR_2018	4.295560366	11691466
+60	AmatoKR_2018_APF37	Wild	America	Mexico	Alouatta pigra	AmatoKR_2018	5.529902368	14828860
+61	AmatoKR_2018_AC668	Wild	America	Argentina	Alouatta caraya	AmatoKR_2018	1.875973456	5058668
+62	AmatoKR_2018_APF38	Wild	America	Mexico	Alouatta pigra	AmatoKR_2018	6.079741796	16410980
+63	AmatoKR_2018_APAL38	Wild	America	Nicaragua	Alouatta palliata	AmatoKR_2018	4.619979916	12441486
+64	AmatoKR_2018_Ahyb257	Wild	America	Colombia	Ateles hybridus	AmatoKR_2018	5.998667814	16271832
+65	AmatoKR_2018_APF104	Wild	America	Mexico	Alouatta pigra	AmatoKR_2018	4.647383207	12495576
+66	AmatoKR_2018_Ahyb401	Wild	America	Colombia	Ateles hybridus	AmatoKR_2018	1.231272914	3351812
+67	AmatoKR_2018_APF39	Wild	America	Mexico	Alouatta pigra	AmatoKR_2018	5.64472588	15141370
+68	AmatoKR_2018_Ahyb1000	Wild	America	Colombia	Ateles hybridus	AmatoKR_2018	8.328735894	22492738
+69	AmatoKR_2018_AsenLink3	Wild	America	Colombia	Alouatta seniculus	AmatoKR_2018	3.76131168	10441682
+70	AmatoKR_2018_AsenLink4	Wild	America	Colombia	Alouatta seniculus	AmatoKR_2018	4.742359238	12737650
+71	AmatoKR_2018_Ahyb411	Wild	America	Colombia	Ateles hybridus	AmatoKR_2018	4.813427559	12838818
+72	AmatoKR_2018_AtbelzLink2	Wild	America	Ecuador	Ateles belzebuth	AmatoKR_2018	4.334463422	11549330
+73	AmatoKR_2018_AsenLink2	Wild	America	Colombia	Alouatta seniculus	AmatoKR_2018	5.967652375	16891226
+74	AmatoKR_2018_AtbelzLink3	Wild	America	Ecuador	Ateles belzebuth	AmatoKR_2018	6.846951588	18387758
+75	AmatoKR_2018_AtbelzLink4	Wild	America	Ecuador	Ateles belzebuth	AmatoKR_2018	4.929339094	13129038
+76	AmatoKR_2018_AtbelzLink5	Wild	America	Ecuador	Ateles belzebuth	AmatoKR_2018	3.205153614	8547344
+77	AmatoKR_2018_BWC2061	Wild	Africa	Uganda	Colobus guereza	AmatoKR_2018	3.799178774	10140640
+78	AmatoKR_2018_BWC2063	Wild	Africa	Uganda	Colobus guereza	AmatoKR_2018	8.024063011	21979350
+79	AmatoKR_2018_Gor1	Wild	Africa	Central African Republic	Gorilla gorilla	AmatoKR_2018	3.699425028	9904494
+80	AmatoKR_2018_BWC2115	Wild	Africa	Uganda	Colobus guereza	AmatoKR_2018	4.82996402	12903678
+81	AmatoKR_2018_Gor11	Wild	Africa	Central African Republic	Gorilla gorilla	AmatoKR_2018	3.6665761	9799394
+82	AmatoKR_2018_JB1	Wild	Africa	Ethiopia	Papio hamadryas	AmatoKR_2018	4.515446637	12201170
+83	AmatoKR_2018_JB12	Wild	Africa	Ethiopia	Papio anubis	AmatoKR_2018	3.704532207	9882666
+84	AmatoKR_2018_Gor3	Wild	Africa	Central African Republic	Gorilla gorilla	AmatoKR_2018	7.00986999	18776984
+85	AmatoKR_2018_JB15	Wild	Africa	Ethiopia	Papio hamadryas	AmatoKR_2018	3.7971796	10233798
+86	AmatoKR_2018_JB17	Wild	Africa	Ethiopia	Papio hamadryas	AmatoKR_2018	6.87051325	18570200
+87	AmatoKR_2018_JB3	Wild	Africa	Ethiopia	Theropithecus gelada	AmatoKR_2018	11.63413135	31980660
+88	AmatoKR_2018_JB24	Wild	Africa	Ethiopia	Papio anubis	AmatoKR_2018	3.473160951	9243318
+89	AmatoKR_2018_LabEllis3	Wild	America	Ecuador	Lagothrix lagothricha	AmatoKR_2018	3.250639218	8680558
+90	AmatoKR_2018_JB25	Wild	Africa	Ethiopia	Papio anubis	AmatoKR_2018	3.407826886	9070174
+91	AmatoKR_2018_LagEllis1	Wild	America	Ecuador	Lagothrix lagothricha	AmatoKR_2018	0.726391307	1987016
+92	AmatoKR_2018_JB28	Wild	Africa	Ethiopia	Papio anubis	AmatoKR_2018	3.479351501	9251298
+93	AmatoKR_2018_Lc301	Wild	Africa	Madagascar	Lemur catta	AmatoKR_2018	11.34548405	30612588
+94	AmatoKR_2018_Lc307	Wild	Africa	Madagascar	Lemur catta	AmatoKR_2018	3.214706621	8552542
+95	AmatoKR_2018_PVAbb	Wild	Africa	Madagascar	Propithecus verreauxi	AmatoKR_2018	3.787794149	10218352
+96	AmatoKR_2018_LagAb2	Wild	America	Ecuador	Lagothrix lagothricha	AmatoKR_2018	6.725202917	18157160
+97	AmatoKR_2018_PVLou	Wild	Africa	Madagascar	Propithecus verreauxi	AmatoKR_2018	4.340557182	11719616
+98	AmatoKR_2018_Lc308	Wild	Africa	Madagascar	Lemur catta	AmatoKR_2018	4.725753171	12599478
+99	AmatoKR_2018_PVPam	Wild	Africa	Madagascar	Propithecus verreauxi	AmatoKR_2018	3.313447061	8925612
+100	AmatoKR_2018_PVPet	Wild	Africa	Madagascar	Propithecus verreauxi	AmatoKR_2018	3.300139305	8888586
+101	AmatoKR_2018_Ptr11	Wild	Africa	Uganda	Pan troglodytes	AmatoKR_2018	5.263163879	14360128
+102	AmatoKR_2018_PVQui	Wild	Africa	Madagascar	Propithecus verreauxi	AmatoKR_2018	0.704865549	1896020
+103	AmatoKR_2018_Ptr13	Wild	Africa	Uganda	Pan troglodytes	AmatoKR_2018	4.848010776	13018618
+104	AmatoKR_2018_Ptr10	Wild	Africa	Uganda	Pan troglodytes	AmatoKR_2018	8.533358465	23241476
+105	AmatoKR_2018_RC2068	Wild	Africa	Uganda	Cercopithecus ascanius	AmatoKR_2018	12.09906775	33193058
+106	AmatoKR_2018_RT2048	Wild	Africa	Uganda	Cercopithecus ascanius	AmatoKR_2018	5.10369052	13714526
+107	AmatoKR_2018_RC2036	Wild	Africa	Uganda	Piliocolobus badius	AmatoKR_2018	8.696106975	23359462
+108	AmatoKR_2018_RC2071	Wild	Africa	Uganda	Piliocolobus badius	AmatoKR_2018	7.506741644	20160876
+109	AmatoKR_2018_AC622	Wild	America	Argentina	Alouatta caraya	AmatoKR_2018	1.516967535	4168028
+110	AmatoKR_2018_AC660	Wild	America	Argentina	Alouatta caraya	AmatoKR_2018	0.950337137	2557900
+111	AmatoKR_2018_AC665	Wild	America	Argentina	Alouatta caraya	AmatoKR_2018	5.841641853	15803280
+112	AmatoKR_2018_APAL36	Wild	America	Nicaragua	Alouatta palliata	AmatoKR_2018	3.38681547	9117600
+113	AmatoKR_2018_APF103	Wild	America	Mexico	Alouatta pigra	AmatoKR_2018	5.819621314	15590922
+114	AmatoKR_2018_Ahyb135	Wild	America	Colombia	Ateles hybridus	AmatoKR_2018	8.014711484	21801260
+115	AmatoKR_2018_Apalw13	Wild	America	Nicaragua	Alouatta palliata	AmatoKR_2018	4.89600311	13186544
+116	AmatoKR_2018_Apalw14	Wild	America	Nicaragua	Alouatta palliata	AmatoKR_2018	4.530063104	12338244
+117	AmatoKR_2018_Asen1111	Wild	America	Colombia	Alouatta seniculus	AmatoKR_2018	3.950169502	10673338
+118	AmatoKR_2018_Asen685	Wild	America	Colombia	Alouatta seniculus	AmatoKR_2018	4.315856883	11639742
+119	AmatoKR_2018_AtbelzLink1	Wild	America	Ecuador	Ateles belzebuth	AmatoKR_2018	7.52291783	20885290
+120	AmatoKR_2018_BWC2023	Wild	Africa	Uganda	Colobus guereza	AmatoKR_2018	3.206858385	8572088
+121	AmatoKR_2018_BWC2026	Wild	Africa	Uganda	Colobus guereza	AmatoKR_2018	4.11405392	11152244
+122	AmatoKR_2018_Gor12	Wild	Africa	Central African Republic	Gorilla gorilla	AmatoKR_2018	3.684348091	9878700
+123	AmatoKR_2018_Gor2	Wild	Africa	Central African Republic	Gorilla gorilla	AmatoKR_2018	3.150421057	8432996
+124	AmatoKR_2018_JB10	Wild	Africa	Ethiopia	Papio anubis	AmatoKR_2018	3.321480094	8958222
+125	AmatoKR_2018_JB18	Wild	Africa	Ethiopia	Papio hamadryas	AmatoKR_2018	4.961898685	13381802
+126	AmatoKR_2018_JB27	Wild	Africa	Ethiopia	Theropithecus gelada	AmatoKR_2018	5.241687951	14106508
+127	AmatoKR_2018_JB29	Wild	Africa	Ethiopia	Theropithecus gelada	AmatoKR_2018	4.603828177	12379804
+128	AmatoKR_2018_LagEllis5	Wild	America	Ecuador	Lagothrix lagothricha	AmatoKR_2018	5.017283094	13435826
+129	AmatoKR_2018_Lc310	Wild	Africa	Madagascar	Lemur catta	AmatoKR_2018	3.99408544	10648790
+130	AmatoKR_2018_PTr14	Wild	Africa	Uganda	Pan troglodytes	AmatoKR_2018	5.101022173	13821098
+131	AmatoKR_2018_RC2098	Wild	Africa	Uganda	Piliocolobus badius	AmatoKR_2018	5.399851138	14591238
+132	AmatoKR_2018_RT2017	Wild	Africa	Uganda	Cercopithecus ascanius	AmatoKR_2018	4.307262649	11495580
+133	AmatoKR_2018_RT2019	Wild	Africa	Uganda	Cercopithecus ascanius	AmatoKR_2018	4.510737474	12100702
+134	AmatoKR_2018_RT2021	Wild	Africa	Uganda	Cercopithecus ascanius	AmatoKR_2018	4.992806098	13308638
+135	LiXP_2018_1A	Captive	Asia	China	Macaca fascicularis	LiXP_2018	13.79002949	54080436
+136	LiXP_2018_2A	Captive	Asia	China	Macaca fascicularis	LiXP_2018	12.80897975	50980068
+137	LiXP_2018_3A	Captive	Asia	China	Macaca fascicularis	LiXP_2018	12.7473133	50339568
+138	LiXP_2018_4A	Captive	Asia	China	Macaca fascicularis	LiXP_2018	13.42511087	53012948
+139	LiXP_2018_5A	Captive	Asia	China	Macaca fascicularis	LiXP_2018	18.54516926	72498762
+140	LiXP_2018_6A	Captive	Asia	China	Macaca fascicularis	LiXP_2018	18.24474349	71216778
+141	LiXP_2018_7A	Captive	Asia	China	Macaca fascicularis	LiXP_2018	18.91155263	74404600
+142	LiXP_2018_8A	Captive	Asia	China	Macaca fascicularis	LiXP_2018	1.059860246	4184886
+143	LiXP_2018_9A	Captive	Asia	China	Macaca fascicularis	LiXP_2018	13.04472576	50974372
+144	LiXP_2018_10A	Captive	Asia	China	Macaca fascicularis	LiXP_2018	10.99373009	42684644
+145	LiXP_2018_11A	Captive	Asia	China	Macaca fascicularis	LiXP_2018	10.48245383	41274364
+146	LiXP_2018_12A	Captive	Asia	China	Macaca fascicularis	LiXP_2018	11.54542308	46498826
+147	LiXP_2018_13A	Captive	Asia	China	Macaca fascicularis	LiXP_2018	12.08689237	46897088
+148	LiXP_2018_14A	Captive	Asia	China	Macaca fascicularis	LiXP_2018	10.82882002	43783540
+149	LiXP_2018_15A	Captive	Asia	China	Macaca fascicularis	LiXP_2018	12.76900368	50445578
+150	LiXP_2018_16A	Captive	Asia	China	Macaca fascicularis	LiXP_2018	12.07145462	48066976
+151	LiXP_2018_17A	Captive	Asia	China	Macaca fascicularis	LiXP_2018	12.0780752	47727006
+152	LiXP_2018_18A	Captive	Asia	China	Macaca fascicularis	LiXP_2018	12.57342674	49668630
+153	LiXP_2018_19A	Captive	Asia	China	Macaca fascicularis	LiXP_2018	12.05244918	47618834
+154	LiXP_2018_20A	Captive	Asia	China	Macaca fascicularis	LiXP_2018	13.06674426	51235956
+155	SrivathsanA_2014_PN1	Captive	Asia	Singapore	Pygathrix nemaeus	SrivathsanA_2014	19.0384275	91108460
+156	SrivathsanA_2014_PN2	Captive	Asia	Singapore	Pygathrix nemaeus	SrivathsanA_2014	16.66018469	79792428
+157	OrkinJD_2019_SR007	Wild	America	Costa Rica	Cebus imitator	OrkinJD_2019	3.191427162	10972714
+158	OrkinJD_2019_SR012	Wild	America	Costa Rica	Cebus imitator	OrkinJD_2019	3.383631486	12369346
+159	OrkinJD_2019_SR013	Wild	America	Costa Rica	Cebus imitator	OrkinJD_2019	3.153466732	10853530
+160	OrkinJD_2019_SR016	Wild	America	Costa Rica	Cebus imitator	OrkinJD_2019	3.012451172	10497772
+161	OrkinJD_2019_SR024	Wild	America	Costa Rica	Cebus imitator	OrkinJD_2019	2.768856886	9614340
+162	OrkinJD_2019_SR039	Wild	America	Costa Rica	Cebus imitator	OrkinJD_2019	3.413105432	11825706
+163	OrkinJD_2019_SR046	Wild	America	Costa Rica	Cebus imitator	OrkinJD_2019	3.297273804	11430574
+164	OrkinJD_2019_SR047	Wild	America	Costa Rica	Cebus imitator	OrkinJD_2019	3.228709694	11183808
+165	OrkinJD_2019_SR049	Wild	America	Costa Rica	Cebus imitator	OrkinJD_2019	3.6588131	12887452
+166	OrkinJD_2019_SR056	Wild	America	Costa Rica	Cebus imitator	OrkinJD_2019	4.007879916	13775962
+167	OrkinJD_2019_SR091	Wild	America	Costa Rica	Cebus imitator	OrkinJD_2019	4.209943782	14669488
+168	OrkinJD_2019_SR093	Wild	America	Costa Rica	Cebus imitator	OrkinJD_2019	2.899102536	10144762
+169	OrkinJD_2019_SR096	Wild	America	Costa Rica	Cebus imitator	OrkinJD_2019	3.0007419	10512040
+170	OrkinJD_2019_SR098	Wild	America	Costa Rica	Cebus imitator	OrkinJD_2019	3.552360618	12355466
+171	OrkinJD_2019_SR102	Wild	America	Costa Rica	Cebus imitator	OrkinJD_2019	1.889347794	6510148
+172	OrkinJD_2019_SR105	Wild	America	Costa Rica	Cebus imitator	OrkinJD_2019	2.701826962	9417744
+173	OrkinJD_2019_SR114	Wild	America	Costa Rica	Cebus imitator	OrkinJD_2019	3.351102932	11787540
+174	OrkinJD_2019_SR116	Wild	America	Costa Rica	Cebus imitator	OrkinJD_2019	4.384250466	15436204
+175	OrkinJD_2019_SR118	Wild	America	Costa Rica	Cebus imitator	OrkinJD_2019	2.26454267	7870532
+176	HicksAL_2018_WDG_0154	Wild	Africa	The Republic of the Congo	Gorilla gorilla	HicksAL_2018	10.83941534	30598068
+177	HicksAL_2018_WDG_0146	Wild	Africa	The Republic of the Congo	Gorilla gorilla	HicksAL_2018	10.59999252	29922981
+178	HicksAL_2018_WDG_0145	Wild	Africa	The Republic of the Congo	Gorilla gorilla	HicksAL_2018	14.19560048	40052589
+179	HicksAL_2018_WDG_0140	Wild	Africa	The Republic of the Congo	Gorilla gorilla	HicksAL_2018	9.268265474	26170351
+180	HicksAL_2018_WDG_0132	Wild	Africa	The Republic of the Congo	Gorilla gorilla	HicksAL_2018	8.53083013	24094620
+181	HicksAL_2018_WDG_0127	Wild	Africa	The Republic of the Congo	Gorilla gorilla	HicksAL_2018	6.888269428	19466944
+182	HicksAL_2018_WDG_0092	Wild	Africa	The Republic of the Congo	Gorilla gorilla	HicksAL_2018	4.19033745	11872673
+183	HicksAL_2018_WDG_0087	Wild	Africa	The Republic of the Congo	Gorilla gorilla	HicksAL_2018	11.4738523	32384851
+184	HicksAL_2018_WDG_0065	Wild	Africa	The Republic of the Congo	Gorilla gorilla	HicksAL_2018	7.379047974	20849301
+185	HicksAL_2018_WDG_0058	Wild	Africa	The Republic of the Congo	Gorilla gorilla	HicksAL_2018	6.498481796	18367799
+186	HicksAL_2018_WDG_0048	Wild	Africa	The Republic of the Congo	Gorilla gorilla	HicksAL_2018	8.465699608	23908638
+187	HicksAL_2018_WDG_0040	Wild	Africa	The Republic of the Congo	Gorilla gorilla	HicksAL_2018	11.10343284	31342591
+188	HicksAL_2018_WDG_0033	Wild	Africa	The Republic of the Congo	Gorilla gorilla	HicksAL_2018	8.97883986	25356641
+189	HicksAL_2018_WDG_0029	Wild	Africa	The Republic of the Congo	Gorilla gorilla	HicksAL_2018	11.80016748	33303836
+190	HicksAL_2018_WDG_0028	Wild	Africa	The Republic of the Congo	Gorilla gorilla	HicksAL_2018	10.38409879	29315302
+191	HicksAL_2018_WDG_0027	Wild	Africa	The Republic of the Congo	Gorilla gorilla	HicksAL_2018	12.66961726	35753029
+192	HicksAL_2018_WDG_0018	Wild	Africa	The Republic of the Congo	Gorilla gorilla	HicksAL_2018	14.36418184	40524777
+193	HicksAL_2018_WDG_0004	Wild	Africa	The Republic of the Congo	Gorilla gorilla	HicksAL_2018	6.592353998	18622967
+194	HicksAL_2018_WDG_0002	Wild	Africa	The Republic of the Congo	Gorilla gorilla	HicksAL_2018	10.58343446	29876329
+195	XiaWC_2022_W-10	Wild	Asia	China	Rhinopithecus bieti	XiaWC_2022	43.359496	130094342
+196	XiaWC_2022_W-12	Wild	Asia	China	Rhinopithecus bieti	XiaWC_2022	39.42703042	121769356
+197	XiaWC_2022_W-24	Wild	Asia	China	Rhinopithecus bieti	XiaWC_2022	45.53138358	134617362
+198	XiaWC_2022_W-25	Wild	Asia	China	Rhinopithecus bieti	XiaWC_2022	45.2629779	136529138
+199	XiaWC_2022_W-29	Wild	Asia	China	Rhinopithecus bieti	XiaWC_2022	53.14773302	158839220
+200	XiaWC_2022_W-30	Wild	Asia	China	Rhinopithecus bieti	XiaWC_2022	39.84830735	119403980
+201	XiaWC_2022_W-42	Wild	Asia	China	Rhinopithecus bieti	XiaWC_2022	44.12099385	134593058
+202	XiaWC_2022_W-7	Wild	Asia	China	Rhinopithecus bieti	XiaWC_2022	49.99214382	151442192
+203	XiaWC_2022_X-31	Provisioned	Asia	China	Rhinopithecus bieti	XiaWC_2022	47.59281152	142089936
+204	XiaWC_2022_X-33	Provisioned	Asia	China	Rhinopithecus bieti	XiaWC_2022	43.44316816	129615344
+205	XiaWC_2022_X-36	Provisioned	Asia	China	Rhinopithecus bieti	XiaWC_2022	44.24953202	132813200
+206	XiaWC_2022_X-37	Provisioned	Asia	China	Rhinopithecus bieti	XiaWC_2022	58.99499143	174837002
+207	XiaWC_2022_X-39	Provisioned	Asia	China	Rhinopithecus bieti	XiaWC_2022	40.67287637	121410278
+208	XiaWC_2022_X-43	Provisioned	Asia	China	Rhinopithecus bieti	XiaWC_2022	45.79446193	136637446
+209	XiaWC_2022_X-44	Provisioned	Asia	China	Rhinopithecus bieti	XiaWC_2022	45.51796032	135656990
+210	XiaWC_2022_X-45	Provisioned	Asia	China	Rhinopithecus bieti	XiaWC_2022	47.07913957	140291920
+211	XiaWC_2022_X-48	Provisioned	Asia	China	Rhinopithecus bieti	XiaWC_2022	41.21741635	123194272
+212	XiaWC_2022_X-50	Provisioned	Asia	China	Rhinopithecus bieti	XiaWC_2022	39.68482251	119248046
+213	XiaWC_2022_X-53	Provisioned	Asia	China	Rhinopithecus bieti	XiaWC_2022	39.17711811	117587242
+214	XiaWC_2022_X-56	Provisioned	Asia	China	Rhinopithecus bieti	XiaWC_2022	45.71183699	136980022
+215	XiaWC_2022_X-60	Provisioned	Asia	China	Rhinopithecus bieti	XiaWC_2022	43.70429144	131157622
+216	XiaWC_2022_X-64	Provisioned	Asia	China	Rhinopithecus bieti	XiaWC_2022	41.45633498	124427364
+217	XiaWC_2022_X-65	Provisioned	Asia	China	Rhinopithecus bieti	XiaWC_2022	39.78014619	119563844
+218	XiaWC_2022_X-66	Provisioned	Asia	China	Rhinopithecus bieti	XiaWC_2022	40.9103539	122655918
+219	JixT_2022_G1	Wild	Asia	China	Macaca mulatta	JixT_2022	70.55544215	242413842
+220	JixT_2022_G2	Semi-captive	Asia	China	Macaca mulatta	JixT_2022	80.80241994	275611136
+221	JixT_2022_G3	Semi-captive	Asia	China	Macaca mulatta	JixT_2022	92.86029748	318106920
+222	JixT_2022_G4	Captive	Asia	China	Macaca mulatta	JixT_2022	96.10137707	329265650
+223	GreeneLK_2020_tvyf080	Wild	Africa	Madagascar	Indri indri	GreeneLK_2020	7.232005183	25436860
+224	GreeneLK_2020_tvyf036	Wild	Africa	Madagascar	Indri indri	GreeneLK_2020	8.231948345	28961016
+225	GreeneLK_2020_tvyf035	Wild	Africa	Madagascar	Indri indri	GreeneLK_2020	7.442587018	26230070
+226	GreeneLK_2020_tvyf087	Wild	Africa	Madagascar	Indri indri	GreeneLK_2020	8.018441121	28157632
+227	GreeneLK_2020_tvyf077	Wild	Africa	Madagascar	Propithecus diadema	GreeneLK_2020	7.268581137	25525084
+228	GreeneLK_2020_tvyf076	Wild	Africa	Madagascar	Propithecus diadema	GreeneLK_2020	7.506748406	26385326
+229	GreeneLK_2020_tvyf074	Wild	Africa	Madagascar	Propithecus diadema	GreeneLK_2020	10.12558193	35496542
+230	GreeneLK_2020_tvyf016	Wild	Africa	Madagascar	Propithecus diadema	GreeneLK_2020	9.578254359	33670242
+231	GreeneLK_2020_tvyf013	Wild	Africa	Madagascar	Propithecus diadema	GreeneLK_2020	9.090722877	31980550
+232	GreeneLK_2020_tvyf090	Wild	Africa	Madagascar	Propithecus diadema	GreeneLK_2020	7.049115313	24791358
+233	GreeneLK_2020_tvyf004	Wild	Africa	Madagascar	Propithecus diadema	GreeneLK_2020	9.367597546	32916986
+234	GreeneLK_2020_tvyf001	Wild	Africa	Madagascar	Propithecus diadema	GreeneLK_2020	9.948221924	34924064
+235	SharmaAK_2020_S100	Wild	Africa	Central African Republic	Gorilla gorilla	SharmaAK_2020	11.8650378	31740940
+236	SharmaAK_2020_S101	Wild	Africa	Central African Republic	Gorilla gorilla	SharmaAK_2020	15.92452849	42671130
+237	SharmaAK_2020_S102	Wild	Africa	Central African Republic	Gorilla gorilla	SharmaAK_2020	15.25651658	40812974
+238	SharmaAK_2020_S103	Wild	Africa	Central African Republic	Gorilla gorilla	SharmaAK_2020	11.17201394	29890802
+239	SharmaAK_2020_S104	Wild	Africa	Central African Republic	Gorilla gorilla	SharmaAK_2020	11.47908651	30712614
+240	SharmaAK_2020_S105	Wild	Africa	Central African Republic	Gorilla gorilla	SharmaAK_2020	14.33562242	38342952
+241	SharmaAK_2020_S106	Wild	Africa	Central African Republic	Gorilla gorilla	SharmaAK_2020	13.71766175	36726088
+242	SharmaAK_2020_S107	Wild	Africa	Central African Republic	Gorilla gorilla	SharmaAK_2020	11.7340307	31426586
+243	SharmaAK_2020_S108	Wild	Africa	Central African Republic	Gorilla gorilla	SharmaAK_2020	14.6997001	39329000
+244	SharmaAK_2020_S109	Wild	Africa	Central African Republic	Gorilla gorilla	SharmaAK_2020	11.73972815	31439464
+245	SharmaAK_2020_S110	Wild	Africa	Central African Republic	Gorilla gorilla	SharmaAK_2020	17.12806003	45751444
+246	SharmaAK_2020_S111	Wild	Africa	Central African Republic	Gorilla gorilla	SharmaAK_2020	12.59058289	33938858
+247	SharmaAK_2020_S112	Wild	Africa	Central African Republic	Gorilla gorilla	SharmaAK_2020	13.49192621	36120500
+248	SharmaAK_2020_S113	Wild	Africa	Central African Republic	Gorilla gorilla	SharmaAK_2020	17.27564718	46343664
+249	SharmaAK_2020_S114	Wild	Africa	Central African Republic	Gorilla gorilla	SharmaAK_2020	14.71172431	39488908
+250	SharmaAK_2020_S115	Wild	Africa	Central African Republic	Gorilla gorilla	SharmaAK_2020	24.08569713	65005394
+251	SharmaAK_2020_S116	Wild	Africa	Central African Republic	Gorilla gorilla	SharmaAK_2020	4.06711672	11041802
+252	SharmaAK_2020_S117	Wild	Africa	Central African Republic	Gorilla gorilla	SharmaAK_2020	13.3865868	35908102
+253	SharmaAK_2020_S118	Wild	Africa	Central African Republic	Gorilla gorilla	SharmaAK_2020	14.84732126	40264586
+254	SharmaAK_2020_S119	Wild	Africa	Central African Republic	Gorilla gorilla	SharmaAK_2020	13.07955195	35181832
+255	SharmaAK_2020_S120	Wild	Africa	Central African Republic	Gorilla gorilla	SharmaAK_2020	11.87492257	31879842
+256	SharmaAK_2020_S121	Wild	Africa	Central African Republic	Gorilla gorilla	SharmaAK_2020	14.91675067	40458036
+257	SharmaAK_2020_S122	Wild	Africa	Central African Republic	Gorilla gorilla	SharmaAK_2020	15.11408082	40740042
+258	CampbellTP_2020_GC39	Wild	Africa	The Republic of the Congo	Pan troglodytes	CampbellTP_2020	2.139470047	7290200
+259	CampbellTP_2020_GC4	Wild	Africa	The Republic of the Congo	Pan troglodytes	CampbellTP_2020	2.368678275	8021308
+260	CampbellTP_2020_GC7	Wild	Africa	The Republic of the Congo	Pan troglodytes	CampbellTP_2020	2.059242394	7092506
+261	CampbellTP_2020_GC6	Wild	Africa	The Republic of the Congo	Pan troglodytes	CampbellTP_2020	2.166865076	7399730
+262	CampbellTP_2020_GC41	Wild	Africa	The Republic of the Congo	Pan troglodytes	CampbellTP_2020	2.139144777	7347438
+263	CampbellTP_2020_GC44	Wild	Africa	The Republic of the Congo	Pan troglodytes	CampbellTP_2020	2.140488618	7421102
+264	CampbellTP_2020_GC32	Wild	Africa	The Republic of the Congo	Pan troglodytes	CampbellTP_2020	2.174673828	7546558
+265	CampbellTP_2020_GC33	Wild	Africa	The Republic of the Congo	Pan troglodytes	CampbellTP_2020	2.894694864	10106176
+266	CampbellTP_2020_GC34	Wild	Africa	The Republic of the Congo	Pan troglodytes	CampbellTP_2020	3.025244668	10363564
+267	CampbellTP_2020_GC35	Wild	Africa	The Republic of the Congo	Pan troglodytes	CampbellTP_2020	2.135429178	7350528
+268	CampbellTP_2020_GC38	Wild	Africa	The Republic of the Congo	Pan troglodytes	CampbellTP_2020	2.1270672	7440400
+269	CampbellTP_2020_GC36	Wild	Africa	The Republic of the Congo	Pan troglodytes	CampbellTP_2020	3.143158166	10763858
+270	CampbellTP_2020_GC21	Wild	Africa	The Republic of the Congo	Pan troglodytes	CampbellTP_2020	2.06038589	7205968
+271	CampbellTP_2020_GC18	Wild	Africa	The Republic of the Congo	Pan troglodytes	CampbellTP_2020	2.37774672	8328202
+272	CampbellTP_2020_GC1	Wild	Africa	The Republic of the Congo	Pan troglodytes	CampbellTP_2020	3.070862022	10382456
+273	CampbellTP_2020_GC20	Wild	Africa	The Republic of the Congo	Pan troglodytes	CampbellTP_2020	2.259712566	7862236
+274	CampbellTP_2020_GC30	Wild	Africa	The Republic of the Congo	Pan troglodytes	CampbellTP_2020	2.447242363	8255860
+275	CampbellTP_2020_GC22	Wild	Africa	The Republic of the Congo	Pan troglodytes	CampbellTP_2020	2.25363286	7707906
+276	CampbellTP_2020_GC15	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	3.03771474	10342528
+277	CampbellTP_2020_GC14	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.099350022	7307786
+278	CampbellTP_2020_GC12	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.232030548	7666656
+279	CampbellTP_2020_GC11	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.288646398	7664848
+280	CampbellTP_2020_GC10	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.640222351	8868868
+281	CampbellTP_2020_GC17	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.207900431	7513946
+282	CampbellTP_2020_GC16	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.922384851	9955026
+283	CampbellTP_2020_GC13	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.302060411	7852936
+284	CampbellTP_2020_GC46	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.958968829	10101084
+285	CampbellTP_2020_GC28	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.14790472	7454730
+286	CampbellTP_2020_GC24	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.245942517	7539512
+287	CampbellTP_2020_GC27	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.300511209	7665376
+288	CampbellTP_2020_GC25	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.354439131	7944160
+289	CampbellTP_2020_GC2	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.220748274	7578858
+290	CampbellTP_2020_GC19	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.219739146	7596850
+291	CampbellTP_2020_GC8	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.340442941	8114516
+292	CampbellTP_2020_GC9	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.714992911	9262858
+293	CampbellTP_2020_GC26	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.268099985	7771560
+294	CampbellTP_2020_GC5	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.078356703	7195522
+295	CampbellTP_2020_GC43	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.231909909	7588710
+296	CampbellTP_2020_GC45	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.558339197	8796034
+297	CampbellTP_2020_GC3	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.865956788	9674652
+298	CampbellTP_2020_GC29	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	3.68980505	12368034
+299	CampbellTP_2020_GC40	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.204943266	7583348
+300	CampbellTP_2020_GC42	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.35581135	8038378
+301	CampbellTP_2020_GC31	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.12202805	7343514
+302	CampbellTP_2020_GC37	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.572728452	8472320
+303	CampbellTP_2020_GC23	Wild	Africa	The Republic of the Congo	Gorilla gorilla	CampbellTP_2020	2.690939729	9137048
+304	LiXY_2022_Fol1	Wild	Asia	China	Rhinopithecus roxellana	LiXY_2022	23.22518555	62324758
+305	LiXY_2022_Fol2	Wild	Asia	China	Rhinopithecus roxellana	LiXY_2022	21.94872832	59112720
+306	LiXY_2022_Fol3	Wild	Asia	China	Rhinopithecus roxellana	LiXY_2022	22.92926036	61504412
+307	LiXY_2022_Fol4	Wild	Asia	China	Rhinopithecus roxellana	LiXY_2022	27.14800109	72838440
+308	LiXY_2022_Fol5	Wild	Asia	China	Rhinopithecus roxellana	LiXY_2022	23.02425982	61714092
+309	LiXY_2022_Fol6	Wild	Asia	China	Rhinopithecus roxellana	LiXY_2022	16.05500351	43082932
+310	LiXY_2022_Fol7	Wild	Asia	China	Rhinopithecus roxellana	LiXY_2022	15.13466883	40830760
+311	LiXY_2022_Fol8	Wild	Asia	China	Rhinopithecus roxellana	LiXY_2022	19.46939552	52257192
+312	LiXY_2022_Fol9	Wild	Asia	China	Rhinopithecus roxellana	LiXY_2022	26.67211668	71600760
+313	LiXY_2022_Fol10	Wild	Asia	China	Rhinopithecus roxellana	LiXY_2022	25.78821296	69181054
+314	LiXY_2022_Omn1	Wild	Asia	China	Macaca mulatta	LiXY_2022	23.70227779	63483280
+315	LiXY_2022_Omn2	Wild	Asia	China	Macaca mulatta	LiXY_2022	25.05179002	67204450
+316	LiXY_2022_Omn3	Wild	Asia	China	Macaca mulatta	LiXY_2022	24.36840562	65399994
+317	LiXY_2022_Omn4	Wild	Asia	China	Macaca mulatta	LiXY_2022	25.62880794	68960118
+318	LiXY_2022_Omn5	Wild	Asia	China	Macaca mulatta	LiXY_2022	29.10142659	78150588
+319	LiXY_2022_Omn6	Wild	Asia	China	Macaca mulatta	LiXY_2022	24.91277714	66846328
+320	LiXY_2022_Omn7	Wild	Asia	China	Macaca mulatta	LiXY_2022	23.13673559	62047194
+321	LiXY_2022_Omn8	Wild	Asia	China	Macaca mulatta	LiXY_2022	23.56701316	63430742
+322	LiXY_2022_Omn9	Wild	Asia	China	Macaca mulatta	LiXY_2022	24.61250468	66123268
+323	LiXY_2022_Omn10	Wild	Asia	China	Macaca mulatta	LiXY_2022	23.495831	63127248
+324	LiXY_2022_Fru1	Captive	Asia	China	Hylobates pileatus	LiXY_2022	19.96734705	53538900
+325	LiXY_2022_Fru8	Captive	Asia	China	Hylobates pileatus	LiXY_2022	23.7185567	63625482
+326	LiXY_2022_Fru3	Captive	Asia	China	Hylobates pileatus	LiXY_2022	24.20329245	64926030
+327	LiXY_2022_Fru4	Captive	Asia	China	Nomascus leucogenys	LiXY_2022	23.50848033	63072036
+328	LiXY_2022_Fru6	Captive	Asia	China	Nomascus leucogenys	LiXY_2022	22.7177516	61013068
+329	LiXY_2022_Fru2	Captive	Asia	China	Nomascus leucogenys	LiXY_2022	24.42434206	65547136
+330	LiXY_2022_Fru5	Captive	Asia	China	Nomascus leucogenys	LiXY_2022	22.12480726	59334030
+331	LiXY_2022_Fru7	Captive	Asia	China	Nomascus annamensis	LiXY_2022	22.77712809	61117396
+332	LiXY_2022_Fru9	Captive	Asia	China	Nomascus annamensis	LiXY_2022	21.43586845	57503154
+333	LiXY_2022_Fru10	Captive	Asia	China	Nomascus annamensis	LiXY_2022	18.88380789	50622998
+334	GreeneLK_2021_ajy028	Wild	Africa	Madagascar	Propithecus coquereli	GreeneLK_2021	0.810431	2436506
+335	GreeneLK_2021_ajy038	Wild	Africa	Madagascar	Propithecus coquereli	GreeneLK_2021	1.133918798	3411900
+336	GreeneLK_2021_ajy039	Wild	Africa	Madagascar	Propithecus coquereli	GreeneLK_2021	0.952120868	2863260
+337	GreeneLK_2021_ajy040	Wild	Africa	Madagascar	Propithecus coquereli	GreeneLK_2021	0.729290184	2197860
+338	GreeneLK_2021_akf006	Wild	Africa	Madagascar	Propithecus coquereli	GreeneLK_2021	0.600654766	1809576
+339	GreeneLK_2021_akf008	Wild	Africa	Madagascar	Propithecus coquereli	GreeneLK_2021	0.602762408	1817110
+340	GreeneLK_2021_akf013	Wild	Africa	Madagascar	Propithecus coquereli	GreeneLK_2021	0.603657562	1818056
+341	GreeneLK_2021_akf014	Wild	Africa	Madagascar	Propithecus coquereli	GreeneLK_2021	2.229629598	6713730
+342	GreeneLK_2021_cps085	Captive	America	the United States	Propithecus coquereli	GreeneLK_2021	2.810291206	8427632
+343	GreeneLK_2021_cps086	Captive	America	the United States	Propithecus coquereli	GreeneLK_2021	0.623068662	1871764
+344	GreeneLK_2021_cps100	Captive	America	the United States	Propithecus coquereli	GreeneLK_2021	0.648258048	1954528
+345	GreeneLK_2021_cps101	Captive	America	the United States	Propithecus coquereli	GreeneLK_2021	0.65096305	1963802
+346	TungJ_2015_F01	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	4.671387858	16831284
+347	TungJ_2015_F02	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	9.752309106	35098080
+348	TungJ_2015_F03	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	6.320632741	22944366
+349	TungJ_2015_F04	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	4.461048766	16077474
+350	TungJ_2015_F05	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	4.495343426	16332908
+351	TungJ_2015_F06	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	10.8165256	38874834
+352	TungJ_2015_F07	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	4.647797566	16888068
+353	TungJ_2015_F08	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	4.280823864	15551628
+354	TungJ_2015_F09	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	3.915723516	14227832
+355	TungJ_2015_F10	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	3.414559962	12301984
+356	TungJ_2015_F11	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	2.7537308	9930968
+357	TungJ_2015_F12	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	3.25409458	11829132
+358	TungJ_2015_F13	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	4.155888697	15097338
+359	TungJ_2015_F14	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	3.41256756	12401948
+360	TungJ_2015_F15	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	3.540599966	12753732
+361	TungJ_2015_F16	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	3.135130296	11290752
+362	TungJ_2015_F17	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	8.203282804	29743496
+363	TungJ_2015_F18	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	4.823529046	17529868
+364	TungJ_2015_F19	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	5.529243263	20077462
+365	TungJ_2015_F20	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	4.157022385	15106690
+366	TungJ_2015_F21	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	5.959957019	21631246
+367	TungJ_2015_F22	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	4.185890538	15211948
+368	TungJ_2015_F23	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	5.055829911	18366114
+369	TungJ_2015_F24	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	4.777073393	17353910
+370	TungJ_2015_F25	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	5.523205105	20061518
+371	TungJ_2015_F26	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	4.564173682	16453994
+372	TungJ_2015_F27	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	7.402365514	26858952
+373	TungJ_2015_F28	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	2.219109536	7999254
+374	TungJ_2015_F29	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	14.60927361	52952866
+375	TungJ_2015_F30	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	3.39540466	12233814
+376	TungJ_2015_F31	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	37.33574077	134081782
+377	TungJ_2015_M01	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	24.63187952	89219332
+378	TungJ_2015_M02	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	6.881956296	24755622
+379	TungJ_2015_M03	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	7.80692812	28077238
+380	TungJ_2015_M04	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	22.77354849	81767806
+381	TungJ_2015_M05	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	10.60898337	38137952
+382	TungJ_2015_M06	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	5.727052154	20615168
+383	TungJ_2015_M07	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	5.020679817	18240362
+384	TungJ_2015_M08	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	2.72952525	9832838
+385	TungJ_2015_M09	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	3.677802401	13368406
+386	TungJ_2015_M10	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	2.565506492	9242392
+387	TungJ_2015_M11	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	4.457512857	16194518
+388	TungJ_2015_M12	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	2.301702794	8301726
+389	TungJ_2015_M13	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	3.710782348	13375268
+390	TungJ_2015_M14	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	5.55853078	20025540
+391	TungJ_2015_M15	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	4.38509187	15814780
+392	TungJ_2015_M16	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	18.52899081	67137838
+393	TungJ_2015_M17	Wild	Africa	Kenya	Papio cynocephalus	TungJ_2015	4.026809124	14508746
+394	DuanJJ_2019_XFLn	Captive	Asia	China	Macaca fascicularis	DuanJJ_2019	32.5551051	94623304
+395	DuanJJ_2019_XFKn	Captive	Asia	China	Macaca fascicularis	DuanJJ_2019	31.420339	91348630
+396	DuanJJ_2019_XFEn	Captive	Asia	China	Macaca fascicularis	DuanJJ_2019	32.74475034	95274352
+397	DuanJJ_2019_F4	Captive	Asia	China	Macaca fascicularis	DuanJJ_2019	29.65299066	86192276
+398	DuanJJ_2019_XFJn	Captive	Asia	China	Macaca fascicularis	DuanJJ_2019	30.85682651	89712524
+399	DuanJJ_2019_XFFn	Captive	Asia	China	Macaca fascicularis	DuanJJ_2019	34.37177567	99910038
+400	DuanJJ_2019_F3	Captive	Asia	China	Macaca fascicularis	DuanJJ_2019	34.24316973	99619576
+401	DuanJJ_2019_F16	Captive	Asia	China	Macaca fascicularis	DuanJJ_2019	30.39233804	88351180
+402	DuanJJ_2019_F10	Captive	Asia	China	Macaca fascicularis	DuanJJ_2019	30.54313121	88736704
+403	DuanJJ_2019_5	Captive	Asia	China	Macaca fascicularis	DuanJJ_2019	29.0333448	84423390
+404	DuanJJ_2019_F13	Captive	Asia	China	Macaca fascicularis	DuanJJ_2019	29.34346434	85303666
+405	DuanJJ_2019_F11	Captive	Asia	China	Macaca fascicularis	DuanJJ_2019	28.35428882	82477888
+406	DuanJJ_2019_2	Captive	Asia	China	Macaca fascicularis	DuanJJ_2019	34.45093232	100191192
+407	DuanJJ_2019_1	Captive	Asia	China	Macaca fascicularis	DuanJJ_2019	31.56972608	91790344
+408	DuanJJ_2019_4	Captive	Asia	China	Macaca fascicularis	DuanJJ_2019	38.15582447	110892150
+409	DuanJJ_2019_3	Captive	Asia	China	Macaca fascicularis	DuanJJ_2019	31.09674344	90439536
+410	LiH_2023_BH-15	Wild	Asia	China	Rhinopithecus roxellana	LiH_2023	18.33427738	54362592
+411	LiH_2023_BH-16	Wild	Asia	China	Rhinopithecus roxellana	LiH_2023	14.51993795	43110914
+412	LiH_2023_BH-17	Wild	Asia	China	Rhinopithecus roxellana	LiH_2023	14.44870763	42789002
+413	LiH_2023_BH-18	Wild	Asia	China	Rhinopithecus roxellana	LiH_2023	20.08321662	59786476
+414	LiH_2023_BH-19	Wild	Asia	China	Rhinopithecus roxellana	LiH_2023	26.62633506	79320534
+415	LiH_2023_BH-31	Wild	Asia	China	Rhinopithecus roxellana	LiH_2023	14.78853491	43974048
+416	LiH_2023_BH-33	Wild	Asia	China	Rhinopithecus roxellana	LiH_2023	15.5598283	46193620
+417	LiH_2023_BH-34	Wild	Asia	China	Rhinopithecus roxellana	LiH_2023	16.80831721	49729370
+418	LiH_2023_BH-40	Wild	Asia	China	Rhinopithecus roxellana	LiH_2023	14.12313323	41781188
+419	LiH_2023_BH-41	Wild	Asia	China	Rhinopithecus roxellana	LiH_2023	14.2685799	42311026
+420	LiH_2023_BH-47	Wild	Asia	China	Rhinopithecus roxellana	LiH_2023	13.82435324	40981894
+421	LiH_2023_BH-48	Wild	Asia	China	Rhinopithecus roxellana	LiH_2023	13.66911363	40627912
+422	LiH_2023_BH-57	Wild	Asia	China	Rhinopithecus roxellana	LiH_2023	14.55535596	43143618
+423	LiH_2023_BH-62	Wild	Asia	China	Rhinopithecus roxellana	LiH_2023	13.86406408	41222588
+424	LiH_2023_BH-66	Wild	Asia	China	Rhinopithecus roxellana	LiH_2023	13.07043703	38806134
+425	ZhangD_2023_C1	Captive	Asia	China	Rhinopithecus roxellana	ZhangD_2023	23.48808032	69830878
+426	ZhangD_2023_C10	Captive	Asia	China	Rhinopithecus roxellana	ZhangD_2023	24.48353377	73355646
+427	ZhangD_2023_C11	Captive	Asia	China	Rhinopithecus roxellana	ZhangD_2023	24.35260278	72596162
+428	ZhangD_2023_C12	Captive	Asia	China	Rhinopithecus roxellana	ZhangD_2023	27.0112278	80272044
+429	ZhangD_2023_C13	Captive	Asia	China	Rhinopithecus roxellana	ZhangD_2023	24.63710318	73283102
+430	ZhangD_2023_C2	Captive	Asia	China	Rhinopithecus roxellana	ZhangD_2023	27.63381236	82036270
+431	ZhangD_2023_C3	Captive	Asia	China	Rhinopithecus roxellana	ZhangD_2023	24.26284923	72133358
+432	ZhangD_2023_C4	Captive	Asia	China	Rhinopithecus roxellana	ZhangD_2023	22.46211464	66884464
+433	ZhangD_2023_C5	Captive	Asia	China	Rhinopithecus roxellana	ZhangD_2023	23.0113445	68708232
+434	ZhangD_2023_C6	Captive	Asia	China	Rhinopithecus roxellana	ZhangD_2023	21.34337328	63525820
+435	ZhangD_2023_C7	Captive	Asia	China	Rhinopithecus roxellana	ZhangD_2023	23.57681884	70214692
+436	ZhangD_2023_C8	Captive	Asia	China	Rhinopithecus roxellana	ZhangD_2023	20.976121	62671204
+437	ZhangD_2023_C9	Captive	Asia	China	Rhinopithecus roxellana	ZhangD_2023	22.92296351	68442062
+438	ZhangD_2023_P1	Provisioned	Asia	China	Rhinopithecus roxellana	ZhangD_2023	22.96013911	68547214
+439	ZhangD_2023_P10	Provisioned	Asia	China	Rhinopithecus roxellana	ZhangD_2023	27.30603778	81249642
+440	ZhangD_2023_P11	Provisioned	Asia	China	Rhinopithecus roxellana	ZhangD_2023	23.97591489	71289862
+441	ZhangD_2023_P12	Provisioned	Asia	China	Rhinopithecus roxellana	ZhangD_2023	23.8691754	70848004
+442	ZhangD_2023_P13	Provisioned	Asia	China	Rhinopithecus roxellana	ZhangD_2023	21.87717236	64963888
+443	ZhangD_2023_P2	Provisioned	Asia	China	Rhinopithecus roxellana	ZhangD_2023	22.33167911	66384146
+444	ZhangD_2023_P3	Provisioned	Asia	China	Rhinopithecus roxellana	ZhangD_2023	23.73491025	70606666
+445	ZhangD_2023_P4	Provisioned	Asia	China	Rhinopithecus roxellana	ZhangD_2023	24.54064595	72962612
+446	ZhangD_2023_P5	Provisioned	Asia	China	Rhinopithecus roxellana	ZhangD_2023	24.83440473	73938302
+447	ZhangD_2023_P6	Provisioned	Asia	China	Rhinopithecus roxellana	ZhangD_2023	20.74423586	61612810
+448	ZhangD_2023_P7	Provisioned	Asia	China	Rhinopithecus roxellana	ZhangD_2023	25.02603912	74457890
+449	ZhangD_2023_P8	Provisioned	Asia	China	Rhinopithecus roxellana	ZhangD_2023	20.72868191	61648896
+450	ZhangD_2023_P9	Provisioned	Asia	China	Rhinopithecus roxellana	ZhangD_2023	24.44665973	72683322
+451	ZhangD_2023_W1	Wild	Asia	China	Rhinopithecus roxellana	ZhangD_2023	25.99137448	77303772
+452	ZhangD_2023_W10	Wild	Asia	China	Rhinopithecus roxellana	ZhangD_2023	25.75273492	76894390
+453	ZhangD_2023_W11	Wild	Asia	China	Rhinopithecus roxellana	ZhangD_2023	21.72220629	64602374
+454	ZhangD_2023_W12	Wild	Asia	China	Rhinopithecus roxellana	ZhangD_2023	25.35713687	75564750
+455	ZhangD_2023_W13	Wild	Asia	China	Rhinopithecus roxellana	ZhangD_2023	22.08622553	65740190
+456	ZhangD_2023_W14	Wild	Asia	China	Rhinopithecus roxellana	ZhangD_2023	21.67879773	64508836
+457	ZhangD_2023_W2	Wild	Asia	China	Rhinopithecus roxellana	ZhangD_2023	29.55281068	87919334
+458	ZhangD_2023_W3	Wild	Asia	China	Rhinopithecus roxellana	ZhangD_2023	22.50817003	66985950
+459	ZhangD_2023_W4	Wild	Asia	China	Rhinopithecus roxellana	ZhangD_2023	22.60609104	67223374
+460	ZhangD_2023_W5	Wild	Asia	China	Rhinopithecus roxellana	ZhangD_2023	22.0928255	65533910
+461	ZhangD_2023_W6	Wild	Asia	China	Rhinopithecus roxellana	ZhangD_2023	23.07126207	68918368
+462	ZhangD_2023_W7	Wild	Asia	China	Rhinopithecus roxellana	ZhangD_2023	23.89777741	71177222
+463	ZhangD_2023_W8	Wild	Asia	China	Rhinopithecus roxellana	ZhangD_2023	24.88878703	74014054
+464	ZhangD_2023_W9	Wild	Asia	China	Rhinopithecus roxellana	ZhangD_2023	23.85075837	71001164
+465	SandersJG_2023_WC1	Wild	Africa	Tanzania	Pan troglodytes	SandersJG_2023	32.89223462	97796256
+466	SandersJG_2023_WC3	Wild	Africa	Tanzania	Pan troglodytes	SandersJG_2023	36.88647364	111699446
+467	SandersJG_2023_WC4	Wild	Africa	Tanzania	Pan troglodytes	SandersJG_2023	59.92362708	177612292
+468	SandersJG_2023_WC5	Wild	Africa	Tanzania	Pan troglodytes	SandersJG_2023	52.10882107	152739768
+469	SandersJG_2023_WC10	Wild	Africa	Tanzania	Pan troglodytes	SandersJG_2023	100.5498584	293214346
+470	SandersJG_2023_WC11	Wild	Africa	Tanzania	Pan troglodytes	SandersJG_2023	16.1296885	47593002
+471	SandersJG_2023_WC13	Wild	Africa	Tanzania	Pan troglodytes	SandersJG_2023	104.7975123	307606794
+472	SandersJG_2023_WC14	Wild	Africa	Tanzania	Pan troglodytes	SandersJG_2023	9.93734176	29161538
+473	SandersJG_2023_WC17	Wild	Africa	Tanzania	Pan troglodytes	SandersJG_2023	93.56892729	275751980
+474	SandersJG_2023_WC18	Wild	Africa	Tanzania	Pan troglodytes	SandersJG_2023	81.50650675	261649544
+475	SandersJG_2023_WC19	Wild	Africa	Tanzania	Pan troglodytes	SandersJG_2023	53.05873503	156456598
+476	SandersJG_2023_WC20	Wild	Africa	Tanzania	Pan troglodytes	SandersJG_2023	36.89142783	108431874
+477	SandersJG_2023_WC21	Wild	Africa	Democratic Republic of the Congo	Pan paniscus	SandersJG_2023	30.68149752	91095080
+478	SandersJG_2023_WC22	Wild	Africa	Democratic Republic of the Congo	Pan paniscus	SandersJG_2023	54.6009157	159635242
+479	SandersJG_2023_WC25	Wild	Africa	Democratic Republic of the Congo	Pan paniscus	SandersJG_2023	21.21876213	62481724
+480	SandersJG_2023_WC26	Wild	Africa	Democratic Republic of the Congo	Pan paniscus	SandersJG_2023	50.51796013	148194856
+481	SandersJG_2023_WC27	Wild	Africa	Democratic Republic of the Congo	Pan paniscus	SandersJG_2023	98.24693784	286193864
+482	SandersJG_2023_WC28	Wild	Africa	Democratic Republic of the Congo	Pan paniscus	SandersJG_2023	4.353912222	13050588
+483	SandersJG_2023_WC29	Wild	Africa	Democratic Republic of the Congo	Pan paniscus	SandersJG_2023	26.44051785	78847230
+484	SandersJG_2023_WC33	Wild	Africa	Cameroon	Pan troglodytes	SandersJG_2023	62.08603953	186628638
+485	SandersJG_2023_WC34	Wild	Africa	Cameroon	Pan troglodytes	SandersJG_2023	57.31432607	168409830
+486	SandersJG_2023_WC35	Wild	Africa	The Republic of the Congo	Pan troglodytes	SandersJG_2023	39.30415841	115008058
+487	SandersJG_2023_WC36	Wild	Africa	The Republic of the Congo	Pan troglodytes	SandersJG_2023	88.28431329	291043284
+488	LevinD_2021_11641712540006	Wild	Africa	Uganda	Gorilla beringei	LevinD_2021	2.916776446	13338402
+489	LevinD_2021_11641712540019	Wild	Africa	Uganda	Gorilla beringei	LevinD_2021	3.416519684	15620388
+490	LevinD_2021_11641712540042	Wild	Africa	Madagascar	Propithecus verreauxi	LevinD_2021	2.630504448	11958908
+491	LevinD_2021_11641712540057	Wild	Africa	Uganda	Chlorocebus pygerythrus	LevinD_2021	3.277645232	14975404
+492	LevinD_2021_11641712540061	Wild	Africa	Uganda	Colobus guereza	LevinD_2021	3.185366622	14558396
+493	LevinD_2021_11641712540066	Wild	Africa	Uganda	Chlorocebus pygerythrus	LevinD_2021	3.25100308	14855916
+494	LevinD_2021_11641712540070	Wild	Africa	Uganda	Pan troglodytes	LevinD_2021	3.01642175	13696638
+495	LevinD_2021_11641712540071	Wild	Africa	Uganda	Colobus guereza	LevinD_2021	2.914873344	13324417
+496	LevinD_2021_11641712540088	Wild	Africa	Madagascar	Propithecus verreauxi	LevinD_2021	1.631571968	7421142
+497	LevinD_2021_11641712540142	Wild	Africa	Madagascar	Propithecus verreauxi	LevinD_2021	4.034857168	18353434
+498	LevinD_2021_11641712540144	Wild	Africa	Madagascar	Prolemur simus	LevinD_2021	0.613761024	2788507
+499	LevinD_2021_11641712540151	Wild	Africa	Madagascar	Eulemur rufifrons	LevinD_2021	3.433831974	15607524
+500	LevinD_2021_11641712540159	Wild	Africa	Madagascar	Eulemur rufifrons	LevinD_2021	1.990549504	9044397
+501	LevinD_2021_11641712540163	Wild	Africa	Madagascar	Eulemur rufifrons	LevinD_2021	3.776499712	17174102
+502	LevinD_2021_22001708574943	Captive	Asia	Israel	Saguinus oedipus	LevinD_2021	3.476005268	15901470
+503	LevinD_2021_22001708574948	Captive	Asia	Israel	Pan troglodytes	LevinD_2021	1.635381248	7478817
+504	LevinD_2021_22001708574954	Captive	Asia	Israel	Gorilla gorilla	LevinD_2021	3.19991713	14639298
+505	LevinD_2021_22001708574956	Captive	Asia	Israel	Pongo abelii	LevinD_2021	2.402922496	10993201
+506	LevinD_2021_22001708574960	Captive	Asia	Israel	Gorilla gorilla	LevinD_2021	1.637679104	7485412
+507	LevinD_2021_22001708574961	Captive	Asia	Israel	Pongo abelii	LevinD_2021	2.558346424	11701938
+508	LevinD_2021_22001708574969	Captive	Asia	Israel	Papio hamadryas	LevinD_2021	4.760395248	21769954
+509	LevinD_2021_22001708574970	Captive	Asia	Israel	Pan troglodytes	LevinD_2021	2.273038336	10390539
+510	LevinD_2021_22001708574979	Captive	Asia	Israel	Mandrillus sphinx	LevinD_2021	2.868671028	13105792
+511	LevinD_2021_22001708574982	Captive	Asia	Israel	Mandrillus sphinx	LevinD_2021	3.540770428	16189184
+512	LevinD_2021_22001708574986	Captive	Asia	Israel	Cebus olivaceus	LevinD_2021	1.937841546	8883120
+513	LevinD_2021_22001708574988	Captive	Asia	Israel	Cebus olivaceus	LevinD_2021	2.964537344	13548875
+514	LevinD_2021_22001708574989	Captive	Asia	Israel	Mandrillus sphinx	LevinD_2021	0.960147456	4396448
+515	LevinD_2021_22001708574992	Captive	Asia	Israel	Macaca nigra	LevinD_2021	3.471672284	15869192
+516	LevinD_2021_22001708574994	Captive	Asia	Israel	Saguinus oedipus	LevinD_2021	2.885259264	13192254
+517	LevinD_2021_22001708574996	Captive	Asia	Israel	Saguinus oedipus	LevinD_2021	2.935369728	13425752
+518	LevinD_2021_22001708575004	Captive	Asia	Israel	Pan troglodytes	LevinD_2021	0.956084622	4384488
+519	LevinD_2021_22001708575005	Captive	Asia	Israel	Macaca nigra	LevinD_2021	2.333188096	10673343
+520	LevinD_2021_22001708575016	Captive	Asia	Israel	Colobus guereza	LevinD_2021	3.481743606	15919050
+521	LevinD_2021_22001801631157	Wild	Africa	Madagascar	Hapalemur aureus	LevinD_2021	3.43556096	15606161
+522	LevinD_2021_22001801631161	Wild	Africa	Madagascar	Eulemur rubriventer	LevinD_2021	1.400733696	6366269
+523	LevinD_2021_22001801631164	Wild	Africa	Madagascar	Propithecus edwardsi	LevinD_2021	4.109807616	18688282
+524	LevinD_2021_22001801631167	Wild	Africa	Uganda	Gorilla beringei	LevinD_2021	2.983402144	13641712
+525	LevinD_2021_22001801631168	Wild	Africa	Madagascar	Hapalemur aureus	LevinD_2021	1.075187712	4888807
+526	LevinD_2021_22001801631170	Wild	Africa	Madagascar	Propithecus edwardsi	LevinD_2021	3.87103686	17607732
+527	LevinD_2021_22001801631175	Wild	Africa	Madagascar	Microcebus murinus	LevinD_2021	3.357814784	15257013
+528	LevinD_2021_22001801631177	Wild	Africa	Madagascar	Eulemur rubriventer	LevinD_2021	1.6608256	7549577
+529	LevinD_2021_22001801631190	Wild	Africa	Madagascar	Hapalemur aureus	LevinD_2021	0.252223488	1146398
+530	LevinD_2021_22001801632001	Wild	Africa	Madagascar	Eulemur rubriventer	LevinD_2021	0.086560768	393342
+531	LevinD_2021_22001801632002	Wild	Africa	Uganda	Chlorocebus pygerythrus	LevinD_2021	3.141883768	14369018
+532	LevinD_2021_22001801632009	Wild	Africa	Uganda	Pan troglodytes	LevinD_2021	1.977094144	8975761
+533	LevinD_2021_22001801632016	Wild	Africa	Madagascar	Microcebus murinus	LevinD_2021	3.009396956	13666954
+534	LevinD_2021_22001801632129	Wild	Africa	Uganda	Piliocolobus tephrosceles	LevinD_2021	3.562597098	16303476
+535	LevinD_2021_22001801632166	Wild	Africa	Uganda	Papio anubis	LevinD_2021	3.660808158	16618646
+536	LevinD_2021_22001801632173	Wild	Africa	Uganda	Papio anubis	LevinD_2021	3.615678464	16523477
+537	LevinD_2021_22001801632182	Wild	Africa	Uganda	Colobus guereza	LevinD_2021	2.450968576	11125431
+538	LevinD_2021_22001801632188	Wild	Africa	Uganda	Pan troglodytes	LevinD_2021	3.033642484	13800902
+539	LevinD_2021_22001801632204	Wild	Africa	Uganda	Colobus guereza	LevinD_2021	4.86406786	22233106
+540	LevinD_2021_22001801632217	Wild	Africa	Uganda	Piliocolobus tephrosceles	LevinD_2021	7.271334398	33156118
+541	LevinD_2021_22001801632221	Wild	Africa	Madagascar	Prolemur simus	LevinD_2021	1.367375872	6212089
+542	LevinD_2021_22001801632223	Wild	Africa	Uganda	Papio anubis	LevinD_2021	5.285364112	24040938
+543	LevinD_2021_22001801632226	Wild	Africa	Uganda	Pan troglodytes	LevinD_2021	5.337620948	24330080
+544	LevinD_2021_22001801632235	Wild	Africa	Uganda	Piliocolobus tephrosceles	LevinD_2021	6.142183578	28111492
+545	LevinD_2021_22001801632259	Captive	Europe	Hungary	Lemur catta	LevinD_2021	0.352550912	1602741
+546	LevinD_2021_22001801632264	Captive	Europe	Hungary	Lemur catta	LevinD_2021	7.274105364	33117808
+547	LevinD_2021_22001801632280	Captive	Europe	Hungary	Lemur catta	LevinD_2021	0.587583488	2677462
+548	LugliGA_2019_Callithrix	Captive	Europe	Italy	Cebuella pygmaea	LugliGA_2019	16.84577982	52123058
+549	LugliGA_2019_Callimico	Captive	Europe	Italy	Callimico goeldii	LugliGA_2019	3.069879358	9950746
+550	A010	Wild	Asia	China	Hoolock tianxing	LiQ_2023	72.10471146	195826820
+551	A013	Wild	Asia	China	Hoolock tianxing	LiQ_2023	73.93585167	200808178
+552	A016	Wild	Asia	China	Hoolock tianxing	LiQ_2023	76.87514252	209380720
+553	A017	Wild	Asia	China	Hoolock tianxing	LiQ_2023	79.3731359	216256360
+554	A020	Wild	Asia	China	Hoolock tianxing	LiQ_2023	74.02911263	200985748
+555	A023	Wild	Asia	China	Hoolock tianxing	LiQ_2023	62.43831523	169516698
+556	A027	Wild	Asia	China	Hoolock tianxing	LiQ_2023	79.07657705	214748926
+557	A028	Wild	Asia	China	Hoolock tianxing	LiQ_2023	67.20357024	182504020
+558	A035	Wild	Asia	China	Hoolock tianxing	LiQ_2023	71.67604547	195196114
+559	A036	Wild	Asia	China	Hoolock tianxing	LiQ_2023	73.24071483	200157008
+560	A037	Wild	Asia	China	Hoolock tianxing	LiQ_2023	86.0911997	235530064
+561	A038	Wild	Asia	China	Hoolock tianxing	LiQ_2023	79.61982599	216210528
+562	A039	Wild	Asia	China	Hoolock tianxing	LiQ_2023	53.79940636	146031436
+563	A040	Wild	Asia	China	Hoolock tianxing	LiQ_2023	83.62030333	229200144
+564	A042	Wild	Asia	China	Hoolock tianxing	LiQ_2023	79.0034865	215194800
+565	A044	Wild	Asia	China	Hoolock tianxing	LiQ_2023	78.00398664	212013630
+566	A052	Wild	Asia	China	Hoolock tianxing	LiQ_2023	68.34350718	185627080
+567	A053	Wild	Asia	China	Hoolock tianxing	LiQ_2023	78.25569517	213234720
+568	A057	Wild	Asia	China	Hoolock tianxing	LiQ_2023	74.19065239	201620222
+569	A058	Wild	Asia	China	Hoolock tianxing	LiQ_2023	74.57843909	202512492
+570	A060	Wild	Asia	China	Hoolock tianxing	LiQ_2023	74.36740633	202504280
+571	A061	Wild	Asia	China	Hoolock tianxing	LiQ_2023	78.00064994	211989160
+572	A063	Wild	Asia	China	Hoolock tianxing	LiQ_2023	66.89258111	181659828
+573	A064	Wild	Asia	China	Hoolock tianxing	LiQ_2023	78.95115753	214456148
+574	A065	Wild	Asia	China	Hoolock tianxing	LiQ_2023	72.87007043	198054286
+575	A067	Wild	Asia	China	Hoolock tianxing	LiQ_2023	62.77000578	170446730
+576	A069	Wild	Asia	China	Hoolock tianxing	LiQ_2023	68.79381486	186791468
+577	A071	Wild	Asia	China	Hoolock tianxing	LiQ_2023	75.02803363	203903380
+578	A079	Wild	Asia	China	Hoolock tianxing	LiQ_2023	72.29693041	196360526
+579	A083	Wild	Asia	China	Hoolock tianxing	LiQ_2023	70.48532565	191377112
+580	A089	Wild	Asia	China	Hoolock tianxing	LiQ_2023	63.33826698	171957424
+581	A094	Wild	Asia	China	Hoolock tianxing	LiQ_2023	64.58740235	175355978
+582	A103	Wild	Asia	China	Hoolock tianxing	LiQ_2023	80.4652157	218479668
+583	A110	Wild	Asia	China	Hoolock tianxing	LiQ_2023	63.7528122	173089210
+584	A114	Wild	Asia	China	Hoolock tianxing	LiQ_2023	64.10791607	174065354
+585	A124	Wild	Asia	China	Hoolock tianxing	LiQ_2023	64.6974442	175649616
+586	B005	Wild	Asia	China	Hoolock tianxing	LiQ_2023	67.70041362	183819584
+587	B010	Wild	Asia	China	Hoolock tianxing	LiQ_2023	75.4731593	204952760
+588	B012	Wild	Asia	China	Hoolock tianxing	LiQ_2023	74.95949633	203605312
+589	B023	Wild	Asia	China	Hoolock tianxing	LiQ_2023	73.96506683	200871550
+590	B026	Wild	Asia	China	Hoolock tianxing	LiQ_2023	76.21107825	206961684
+591	B030	Wild	Asia	China	Hoolock tianxing	LiQ_2023	60.35898133	163859122
+592	B035	Wild	Asia	China	Hoolock tianxing	LiQ_2023	60.56918965	164425562
+593	B037	Wild	Asia	China	Hoolock tianxing	LiQ_2023	68.89024057	187051844
+594	B039	Wild	Asia	China	Hoolock tianxing	LiQ_2023	63.65567587	172841256
+595	B041	Wild	Asia	China	Hoolock tianxing	LiQ_2023	78.51278322	213372470
+596	B042	Wild	Asia	China	Hoolock tianxing	LiQ_2023	88.53724324	240401772
+597	B047	Wild	Asia	China	Hoolock tianxing	LiQ_2023	68.18404206	185138728
+598	B050	Wild	Asia	China	Hoolock tianxing	LiQ_2023	62.18889523	168849448
+599	B051	Wild	Asia	China	Hoolock tianxing	LiQ_2023	80.03525569	218087958
+600	B053	Wild	Asia	China	Hoolock tianxing	LiQ_2023	66.39039489	180234832
+601	B055	Wild	Asia	China	Hoolock tianxing	LiQ_2023	73.74027878	200215622
+602	B056	Wild	Asia	China	Hoolock tianxing	LiQ_2023	62.9927203	171024130
+603	B058	Wild	Asia	China	Hoolock tianxing	LiQ_2023	64.31422148	174608064
+604	B059	Wild	Asia	China	Hoolock tianxing	LiQ_2023	83.57146279	227010414
+605	B063	Wild	Asia	China	Hoolock tianxing	LiQ_2023	63.25784084	171733258
+606	B071	Wild	Asia	China	Hoolock tianxing	LiQ_2023	60.21042077	163471898
+607	B078	Wild	Asia	China	Hoolock tianxing	LiQ_2023	63.46554727	172302034
+608	B084	Wild	Asia	China	Hoolock tianxing	LiQ_2023	64.4957587	175089044
+609	B092	Wild	Asia	China	Hoolock tianxing	LiQ_2023	66.33052431	180080206
+610	B098	Wild	Asia	China	Hoolock tianxing	LiQ_2023	43.75830115	118820604
+611	B100	Wild	Asia	China	Hoolock tianxing	LiQ_2023	65.41685345	177605114
+612	C005	Wild	Asia	China	Hoolock tianxing	LiQ_2023	74.57076025	202457534
+613	C010	Wild	Asia	China	Hoolock tianxing	LiQ_2023	62.8339344	170582754
+614	C012	Wild	Asia	China	Hoolock tianxing	LiQ_2023	67.84821609	184228068
+615	C021	Wild	Asia	China	Hoolock tianxing	LiQ_2023	62.25641967	169018830
+616	C027	Wild	Asia	China	Hoolock tianxing	LiQ_2023	72.50065873	196848928
+617	C033	Wild	Asia	China	Hoolock tianxing	LiQ_2023	61.5031899	166970496
+618	C045	Wild	Asia	China	Hoolock tianxing	LiQ_2023	76.22134924	206985118
+619	C051	Wild	Asia	China	Hoolock tianxing	LiQ_2023	69.69957024	189247478
+620	C056	Wild	Asia	China	Hoolock tianxing	LiQ_2023	71.58239339	194396402
+621	C061	Wild	Asia	China	Hoolock tianxing	LiQ_2023	70.41862773	191222578
+622	C065	Wild	Asia	China	Hoolock tianxing	LiQ_2023	72.12344671	195841564
+623	C068	Wild	Asia	China	Hoolock tianxing	LiQ_2023	71.42042484	193901926
+624	D010	Wild	Asia	China	Hoolock tianxing	LiQ_2023	67.26177093	182642116
+625	D016	Wild	Asia	China	Hoolock tianxing	LiQ_2023	70.64019906	191805272
+626	D026	Wild	Asia	China	Hoolock tianxing	LiQ_2023	63.3870281	172081666
+627	D043	Wild	Asia	China	Hoolock tianxing	LiQ_2023	66.55564951	181182420
+628	D046	Wild	Asia	China	Hoolock tianxing	LiQ_2023	72.23344837	196158730
+629	D048	Wild	Asia	China	Hoolock tianxing	LiQ_2023	82.09093647	222891722
+630	D058	Wild	Asia	China	Hoolock tianxing	LiQ_2023	64.34084707	174739244
+631	D063	Wild	Asia	China	Hoolock tianxing	LiQ_2023	75.08289402	203860874
+632	D068	Wild	Asia	China	Hoolock tianxing	LiQ_2023	63.61214322	172712980
+633	D072	Wild	Asia	China	Hoolock tianxing	LiQ_2023	53.78132876	146038730
+634	D081	Wild	Asia	China	Hoolock tianxing	LiQ_2023	66.84643281	181528868
+635	E009	Wild	Asia	China	Hoolock tianxing	LiQ_2023	74.1954241	201493960
+636	E017	Wild	Asia	China	Hoolock tianxing	LiQ_2023	39.94192679	108897954
+637	E020	Wild	Asia	China	Hoolock tianxing	LiQ_2023	65.32476407	177373870
+638	E026	Wild	Asia	China	Hoolock tianxing	LiQ_2023	71.23503354	193450200
+639	E030	Wild	Asia	China	Hoolock tianxing	LiQ_2023	66.23237542	179883550
+640	G009	Wild	Asia	China	Hoolock tianxing	LiQ_2023	63.93109753	173603142
+641	G027	Wild	Asia	China	Hoolock tianxing	LiQ_2023	61.42763086	166778604
+642	N002	Wild	Asia	China	Hoolock tianxing	LiQ_2023	79.82273353	216865174
+643	N003	Wild	Asia	China	Hoolock tianxing	LiQ_2023	78.83666337	214339378
+644	N041	Wild	Asia	China	Hoolock tianxing	LiQ_2023	66.71039237	181171588
+645	X007	Wild	Asia	China	Hoolock tianxing	LiQ_2023	74.88833152	203335790
+646	X008	Wild	Asia	China	Hoolock tianxing	LiQ_2023	81.29023445	220884694
+647	X011	Wild	Asia	China	Hoolock tianxing	LiQ_2023	76.31789639	207276922
+648	X014	Wild	Asia	China	Hoolock tianxing	LiQ_2023	66.51265505	180615390
+649	X015	Wild	Asia	China	Hoolock tianxing	LiQ_2023	75.75830006	205816568
+650	X018	Wild	Asia	China	Hoolock tianxing	LiQ_2023	71.15794786	193210028
+651	X023	Wild	Asia	China	Hoolock tianxing	LiQ_2023	74.40885156	202208466
+652	X024	Wild	Asia	China	Hoolock tianxing	LiQ_2023	62.94632787	170900616
+653	X027	Wild	Asia	China	Hoolock tianxing	LiQ_2023	78.06578354	211973626
+654	X028	Wild	Asia	China	Hoolock tianxing	LiQ_2023	88.41994325	240269346
+655	X031	Wild	Asia	China	Hoolock tianxing	LiQ_2023	64.16843278	174213748
+656	X034	Wild	Asia	China	Hoolock tianxing	LiQ_2023	63.38357823	172093760
+657	X038	Wild	Asia	China	Hoolock tianxing	LiQ_2023	86.80463896	235720756
+658	X039	Wild	Asia	China	Hoolock tianxing	LiQ_2023	66.96220132	181786924
+659	X044	Wild	Asia	China	Hoolock tianxing	LiQ_2023	63.66726435	173106196
+660	X047	Wild	Asia	China	Hoolock tianxing	LiQ_2023	67.48602769	183220548
+661	X049	Wild	Asia	China	Hoolock tianxing	LiQ_2023	64.01489725	173794926
+662	X051	Wild	Asia	China	Hoolock tianxing	LiQ_2023	62.95264426	170928870
+663	X052	Wild	Asia	China	Hoolock tianxing	LiQ_2023	75.37116485	204678440
+664	X055	Wild	Asia	China	Hoolock tianxing	LiQ_2023	83.58095532	226928598
+665	X057	Wild	Asia	China	Hoolock tianxing	LiQ_2023	79.94217669	217078588
+666	X059	Wild	Asia	China	Hoolock tianxing	LiQ_2023	75.95850022	206218430
+667	X065	Wild	Asia	China	Hoolock tianxing	LiQ_2023	64.20284361	174310674
+668	X069	Wild	Asia	China	Hoolock tianxing	LiQ_2023	68.73298193	186608586
+669	Y002	Wild	Asia	China	Hoolock tianxing	LiQ_2023	71.58906844	194410270
+670	Y006	Wild	Asia	China	Hoolock tianxing	LiQ_2023	63.16235478	171481702
+671	Y007	Wild	Asia	China	Hoolock tianxing	LiQ_2023	70.87472921	192490814
+672	Y012	Wild	Asia	China	Hoolock tianxing	LiQ_2023	63.75333503	173093656
+673	Y014	Wild	Asia	China	Hoolock tianxing	LiQ_2023	64.37403244	174783530
+674	Y015	Wild	Asia	China	Hoolock tianxing	LiQ_2023	74.45909166	202154650
+675	Y016	Wild	Asia	China	Hoolock tianxing	LiQ_2023	80.54065559	218714624
+676	Y018	Wild	Asia	China	Hoolock tianxing	LiQ_2023	84.28512747	228943832
+677	Y021	Wild	Asia	China	Hoolock tianxing	LiQ_2023	75.71441289	205586602
+678	Y023	Wild	Asia	China	Hoolock tianxing	LiQ_2023	81.64443102	221709762
+679	Y025	Wild	Asia	China	Hoolock tianxing	LiQ_2023	70.22657327	190680154
+680	Y028	Wild	Asia	China	Hoolock tianxing	LiQ_2023	76.43819583	207589566
+681	Y030	Wild	Asia	China	Hoolock tianxing	LiQ_2023	64.33591913	174680384
+682	Y031	Wild	Asia	China	Hoolock tianxing	LiQ_2023	74.37371946	201955840
+683	Y033	Wild	Asia	China	Hoolock tianxing	LiQ_2023	79.1198772	214932202
+684	Y034	Wild	Asia	China	Hoolock tianxing	LiQ_2023	71.90656131	195247214
+685	Y036	Wild	Asia	China	Hoolock tianxing	LiQ_2023	63.71158255	172975040
+686	Y037	Wild	Asia	China	Hoolock tianxing	LiQ_2023	88.66799387	241417728
+687	Y038	Wild	Asia	China	Hoolock tianxing	LiQ_2023	69.43395372	188552500
+688	21040304G6B	Wild	In situ	China	Nomascus concolor	WLS_116	62.98120632	170996258
+689	21040501G6M2	Wild	In situ	China	Nomascus concolor	WLS_116	61.85080193	167925650
+690	21040502G4B09	Wild	In situ	China	Nomascus concolor	WLS_116	70.70788971	191982206
+691	21040504G4B	Wild	In situ	China	Nomascus concolor	WLS_116	64.84600191	176056282
+692	21040701G6M2	Wild	In situ	China	Nomascus concolor	WLS_116	65.97944235	179150326
+693	21040801G4C12	Wild	In situ	China	Nomascus concolor	WLS_116	72.71471359	197428216
+694	21040802G4D	Wild	In situ	China	Nomascus concolor	WLS_116	65.16692402	176948878
+695	21040803G4B16	Wild	In situ	China	Nomascus concolor	WLS_116	70.91570666	192545050
+696	21040806G4B	Wild	In situ	China	Nomascus concolor	WLS_116	68.17659248	185123578
+697	21040901G6A	Wild	In situ	China	Nomascus concolor	WLS_116	69.20926304	187925436
+698	21040904G6B16	Wild	In situ	China	Nomascus concolor	WLS_116	62.77922152	170457000
+699	21041301G5M3	Wild	In situ	China	Nomascus concolor	WLS_116	64.19891633	174297302
+700	21041501G4B09	Wild	In situ	China	Nomascus concolor	WLS_116	65.75950877	178534142
+701	21041801G6M2	Wild	In situ	China	Nomascus concolor	WLS_116	62.08132545	168556064
+702	210426G5M3	Wild	In situ	China	Nomascus concolor	WLS_116	62.90580452	170790324
+703	21050401G6A	Wild	In situ	China	Nomascus concolor	WLS_116	63.80555304	173232632
+704	21050704G6M2	Wild	In situ	China	Nomascus concolor	WLS_116	65.33629441	177395268
+705	21051301G5A	Wild	In situ	China	Nomascus concolor	WLS_116	73.67076968	200016464
+706	21051401G5B16	Wild	In situ	China	Nomascus concolor	WLS_116	65.57153149	178044242
+707	21051402G5B13	Wild	In situ	China	Nomascus concolor	WLS_116	72.58725755	197078650
+708	21051902G6B16	Wild	In situ	China	Nomascus concolor	WLS_116	62.03619897	168431594
+709	21052001G6A13	Wild	In situ	China	Nomascus concolor	WLS_116	63.9283604	173561944
+710	21052003G6A16	Wild	In situ	China	Nomascus concolor	WLS_116	78.00961441	211800304
+711	21052103G5A	Wild	In situ	China	Nomascus concolor	WLS_116	66.67822872	181035982
+712	21052504G4B16	Wild	In situ	China	Nomascus concolor	WLS_116	77.50793446	210424154
+713	21052506G4D	Wild	In situ	China	Nomascus concolor	WLS_116	75.82887336	205867902
+714	21052701G5B13	Wild	In situ	China	Nomascus concolor	WLS_116	76.57736751	207920614
+715	21070801G5M3	Wild	In situ	China	Nomascus concolor	WLS_116	76.69468176	208227258
+716	21070801G6B	Wild	In situ	China	Nomascus concolor	WLS_116	77.70053792	210964026
+717	21070802G6A	Wild	In situ	China	Nomascus concolor	WLS_116	70.89973739	192493234
+718	21070803G5B13	Wild	In situ	China	Nomascus concolor	WLS_116	66.26051855	179909216
+719	21070803G6A16	Wild	In situ	China	Nomascus concolor	WLS_116	66.6945944	181083818
+720	21070804G6A16	Wild	In situ	China	Nomascus concolor	WLS_116	64.12359726	174113036
+721	21070901G5M3	Wild	In situ	China	Nomascus concolor	WLS_116	67.00996968	181938074
+722	21071003G6M2	Wild	In situ	China	Nomascus concolor	WLS_116	69.71231825	189284016
+723	21071004G6A13	Wild	In situ	China	Nomascus concolor	WLS_116	76.60957433	208007952
+724	21071102G5A	Wild	In situ	China	Nomascus concolor	WLS_116	85.42882361	231949742
+725	21081301G6M2	Wild	In situ	China	Nomascus concolor	WLS_116	64.56141423	175292446
+726	21081302G6A16	Wild	In situ	China	Nomascus concolor	WLS_116	61.67795245	167464530
+727	21081303G6B16	Wild	In situ	China	Nomascus concolor	WLS_116	62.45526944	169578414
+728	21082103G6M2	Wild	In situ	China	Nomascus concolor	WLS_116	65.43137935	177645940
+729	21082105G6B16	Wild	In situ	China	Nomascus concolor	WLS_116	67.97557849	184565242
+730	21082801G6B	Wild	In situ	China	Nomascus concolor	WLS_116	70.92627078	192570680
+731	21082901G5M3	Wild	In situ	China	Nomascus concolor	WLS_116	66.05537888	179344986
+732	21082902G6M2	Wild	In situ	China	Nomascus concolor	WLS_116	64.78631395	175902218
+733	21082903G6A16	Wild	In situ	China	Nomascus concolor	WLS_116	74.55778013	202430250
+734	21082904G6B16	Wild	In situ	China	Nomascus concolor	WLS_116	65.22304735	177086798
+735	21110301G5B13	Wild	In situ	China	Nomascus concolor	WLS_116	74.11389499	201231992
+736	21110401G6A19	Wild	In situ	China	Nomascus concolor	WLS_116	79.72505468	216454406
+737	21110402G6A16	Wild	In situ	China	Nomascus concolor	WLS_116	65.95510627	179076462
+738	21110702G6A	Wild	In situ	China	Nomascus concolor	WLS_116	65.70560353	178418480
+739	21110803G6A19	Wild	In situ	China	Nomascus concolor	WLS_116	65.77270317	178578302
+740	21110804G6A	Wild	In situ	China	Nomascus concolor	WLS_116	69.00284727	187349342
+741	21111301G5B13	Wild	In situ	China	Nomascus concolor	WLS_116	68.04938345	184760594
+742	21111401G5B13	Wild	In situ	China	Nomascus concolor	WLS_116	65.94376437	179043606
+743	21111801G6B	Wild	In situ	China	Nomascus concolor	WLS_116	64.20289413	174330442
+744	21112201G6B	Wild	In situ	China	Nomascus concolor	WLS_116	82.85671307	224965212
+745	21112501G5A	Wild	In situ	China	Nomascus concolor	WLS_116	76.08442548	206575626
+746	22010205G6B16	Wild	In situ	China	Nomascus concolor	WLS_116	76.27877893	207109808
+747	22010801G6A16	Wild	In situ	China	Nomascus concolor	WLS_116	76.74542575	208364224
+748	22010901G4B12	Wild	In situ	China	Nomascus concolor	WLS_116	82.89928884	225083532
+749	22010903G4B12	Wild	In situ	China	Nomascus concolor	WLS_116	74.3234999	201795836
+750	22011201G5A	Wild	In situ	China	Nomascus concolor	WLS_116	71.59187174	194381568
+751	22011401G6B	Wild	In situ	China	Nomascus concolor	WLS_116	85.10804595	231074466
+752	22011702G4D	Wild	In situ	China	Nomascus concolor	WLS_116	85.94560319	233349984
+753	22011703G4B12	Wild	In situ	China	Nomascus concolor	WLS_116	75.75614337	205677916
+754	22011704G4B	Wild	In situ	China	Nomascus concolor	WLS_116	86.07716312	233704814
+755	22012902G6A19	Wild	In situ	China	Nomascus concolor	WLS_116	64.96048801	176412578
+756	H21042701	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	78.25596551	212499352
+757	H21042702	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	77.64966849	210859484
+758	H21042703	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	72.24571738	196162582
+759	H21042704	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	69.75162097	189393632
+760	H21042705	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	76.63433377	208073904
+761	H21042706	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	64.61207797	175438346
+762	H21042707	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	69.473918	188643534
+763	H21042708	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	61.44486351	166835198
+764	H21050601	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	61.57969933	167207928
+765	H21050602	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	86.07921024	233750432
+766	H21050603	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	77.80385525	211291622
+767	H21050604	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	71.31637843	193663310
+768	H21050605	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	81.20626313	220535560
+769	H21050606	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	69.08488907	187599248
+770	H21050607	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	70.92269378	192585754
+771	H21050608	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	76.46997121	207655260
+772	H21070701	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	67.38406775	182966552
+773	H21070702	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	82.34832903	223618548
+774	H21070703	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	90.58017021	245973246
+775	H21070704	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	67.26889244	182644196
+776	H21071201	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	80.50722259	218610064
+777	H21071202	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	85.79983773	232963180
+778	H21071203	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	81.43086481	221098344
+779	H21071204	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	79.80408008	216683782
+780	H21080601	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	86.10390367	233781584
+781	H21080602	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	97.14312682	263762662
+782	H21080603	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	83.02415689	225425110
+783	H21080604	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	78.76813304	213871574
+784	H21080605	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	85.12973865	231140054
+785	H21081501	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	85.62886561	232509646
+786	H21081502	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	86.67901669	235351412
+787	H21081503	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	70.94665626	192640798
+788	H21111101	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	71.39643238	193873486
+789	H21111102	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	75.12783024	204008404
+790	H21111103	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	71.11784232	193102992
+791	H21111104	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	71.3399784	193713480
+792	H21111105	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	84.06009488	228261152
+793	H21111106	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	81.05592361	220102606
+794	H21111107	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	80.33710844	218135048
+795	H21112001	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	76.94166878	208918428
+796	H22011301	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	85.35457834	231766486
+797	H22011302	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	87.53804519	237677318
+798	H22011303	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	93.04596332	252642124
+799	H22011304	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	84.93099435	230598718
+800	H22011402	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	69.7572094	189411912
+801	H22011502	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	77.34011657	209999656
+802	H22011503	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	74.83627753	203216516
+803	H22011505	Wild	In situ	China	Trachypithecus crepusculus	WLS_116	74.6729205	202765924
